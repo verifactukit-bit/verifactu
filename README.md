@@ -1,4 +1,4 @@
-# verifactu
+# verifactu KIT
 Librería, documentación y ejemplos para integrar VERIFACTU de forma fácil con PHP y Python
 
 Copyright © 2026 VeriFactuKit
