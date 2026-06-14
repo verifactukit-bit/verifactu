@@ -13,7 +13,7 @@ No está permitido copiar, redistribuir, sublicenciar, vender ni incorporar este
 
 verifactukit@gmail.com
 
-La librería completa incluye:
+La librería completa incluye (80€):
 
 - VeriFactuClient PHP
 - VeriFactuClient Python
@@ -29,7 +29,7 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=jcoldfield@hotmail.co
 
 
 
-####También puedes obtener un pdf "Guía y tutorial de programación e integración con VERIFACTU"
+####También puedes obtener un pdf "Guía y tutorial de programación e integración con VERIFACTU" (20€)
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bb5c95a5-b857-4784-90a8-9519ca653141" />
 
 # VeriFactuKit
