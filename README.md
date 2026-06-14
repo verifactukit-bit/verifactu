@@ -9,6 +9,6 @@ Este repositorio contiene ejemplos educativos de integración con VERIFACTU.
 
 No está permitido copiar, redistribuir, sublicenciar, vender ni incorporar este código en productos comerciales sin autorización expresa por escrito.
 
-La librería comercial VeriFactuKit puede adquirirse en:
+La librería comercial VeriFactuKit para ejecutar los ejemplos puede adquirirse escribiendo en:
 
 verifactukit@gmail.com
