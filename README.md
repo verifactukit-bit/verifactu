@@ -51,7 +51,7 @@ Incluye:
 
 👉 Comprar ebook PDF:
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=jcoldfield@hotmail.com&item_name=VerifactuPDF&amount=20.00&currency_code=EUR
+https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=jcoldfield@hotmail.com&item_name=VerifactuPDF&amount=25.00&currency_code=EUR
 
 
 
